@@ -1,0 +1,7 @@
+King James Bible with verse markings:
+https://kjbpce.github.io/kingjamesbiblepce/
+
+King James Bible without verse markings:
+https://kjbpce.github.io/kingjamesbiblepce/nvms/index.html
+
+
